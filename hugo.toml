@@ -1,4 +1,4 @@
 baseURL = 'https://timdoa.github.io/tim.github.io/'
-languageCode = 'de-de'
+languageCode = 'en-us'
 title = 'Tims Website'
 theme = 'PaperMod'
